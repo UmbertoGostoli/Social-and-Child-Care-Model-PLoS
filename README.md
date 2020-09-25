@@ -23,5 +23,5 @@ To run the model, in the Anaconda prompt go to the folder where the files have b
 
 When starting the simulation, a folder called 'Simulations_Folder' will be automatically created in the same folder of the files. Here, the simulation's results are saved (in the Outputs.csv file).
 
-
+The folder Data contains all the results of the simulations used for PLoS paper figures.
 
