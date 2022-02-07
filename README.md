@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/240493901.svg)](https://zenodo.org/badge/latestdoi/240493901)
+
 # Social-and-Child-Care-Model-PLoS
 Social Care Model whose results have been used for the PLoS submission.
 
